@@ -1,9 +1,5 @@
 # Hello-World
 # message
 #A-feature
-让合并分支产生冲突
-#fix-b
-
-#C-feature
-
-在readme上更新内容
+在分支A上添加一个功能
+继续在分支A上进行开发并在进行提交
